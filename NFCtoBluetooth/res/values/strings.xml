@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Please hold against a phone with the application open.</string>
+    <string name="app_name">NFCtoBluetooth Test</string>
+</resources>
